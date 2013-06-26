@@ -1,0 +1,102 @@
+C:\Users\didi\Documents\Visual Studio 2012\Projects\SlttVenetteMargnyWebSite\SlttVenetteMargnyWebSite\bin\SlttVenetteMargnyWebSite.dll
+C:\Users\didi\Documents\Visual Studio 2012\Projects\SlttVenetteMargnyWebSite\SlttVenetteMargnyWebSite\bin\SlttVenetteMargnyWebSite.pdb
+C:\Users\didi\Documents\Visual Studio 2012\Projects\SlttVenetteMargnyWebSite\SlttVenetteMargnyWebSite\bin\Antlr3.Runtime.dll
+C:\Users\didi\Documents\Visual Studio 2012\Projects\SlttVenetteMargnyWebSite\SlttVenetteMargnyWebSite\bin\EntityFramework.dll
+C:\Users\didi\Documents\Visual Studio 2012\Projects\SlttVenetteMargnyWebSite\SlttVenetteMargnyWebSite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\didi\Documents\Visual Studio 2012\Projects\SlttVenetteMargnyWebSite\SlttVenetteMargnyWebSite\bin\Newtonsoft.Json.dll
+C:\Users\didi\Documents\Visual Studio 2012\Projects\SlttVenetteMargnyWebSite\SlttVenetteMargnyWebSite\bin\System.Net.Http.Formatting.dll
+C:\Users\didi\Documents\Visual Studio 2012\Projects\SlttVenetteMargnyWebSite\SlttVenetteMargnyWebSite\bin\System.Web.Http.dll
+C:\Users\didi\Documents\Visual Studio 2012\Projects\SlttVenetteMargnyWebSite\SlttVenetteMargnyWebSite\bin\System.Web.Http.WebHost.dll
+C:\Users\didi\Documents\Visual Studio 2012\Projects\SlttVenetteMargnyWebSite\SlttVenetteMargnyWebSite\bin\System.Web.Mvc.dll
+C:\Users\didi\Documents\Visual Studio 2012\Projects\SlttVenetteMargnyWebSite\SlttVenetteMargnyWebSite\bin\System.Web.Optimization.dll
+C:\Users\didi\Documents\Visual Studio 2012\Projects\SlttVenetteMargnyWebSite\SlttVenetteMargnyWebSite\bin\System.Web.Providers.dll
+C:\Users\didi\Documents\Visual Studio 2012\Projects\SlttVenetteMargnyWebSite\SlttVenetteMargnyWebSite\bin\System.Web.Razor.dll
+C:\Users\didi\Documents\Visual Studio 2012\Projects\SlttVenetteMargnyWebSite\SlttVenetteMargnyWebSite\bin\System.Web.WebPages.Deployment.dll
+C:\Users\didi\Documents\Visual Studio 2012\Projects\SlttVenetteMargnyWebSite\SlttVenetteMargnyWebSite\bin\System.Web.WebPages.dll
+C:\Users\didi\Documents\Visual Studio 2012\Projects\SlttVenetteMargnyWebSite\SlttVenetteMargnyWebSite\bin\System.Web.WebPages.Razor.dll
+C:\Users\didi\Documents\Visual Studio 2012\Projects\SlttVenetteMargnyWebSite\SlttVenetteMargnyWebSite\bin\WebGrease.dll
+C:\Users\didi\Documents\Visual Studio 2012\Projects\SlttVenetteMargnyWebSite\SlttVenetteMargnyWebSite\bin\EntityFramework.xml
+C:\Users\didi\Documents\Visual Studio 2012\Projects\SlttVenetteMargnyWebSite\SlttVenetteMargnyWebSite\bin\Newtonsoft.Json.xml
+C:\Users\didi\Documents\Visual Studio 2012\Projects\SlttVenetteMargnyWebSite\SlttVenetteMargnyWebSite\bin\System.Net.Http.Formatting.xml
+C:\Users\didi\Documents\Visual Studio 2012\Projects\SlttVenetteMargnyWebSite\SlttVenetteMargnyWebSite\bin\System.Web.Http.xml
+C:\Users\didi\Documents\Visual Studio 2012\Projects\SlttVenetteMargnyWebSite\SlttVenetteMargnyWebSite\bin\System.Web.Http.WebHost.xml
+C:\Users\didi\Documents\Visual Studio 2012\Projects\SlttVenetteMargnyWebSite\SlttVenetteMargnyWebSite\bin\System.Web.Mvc.xml
+C:\Users\didi\Documents\Visual Studio 2012\Projects\SlttVenetteMargnyWebSite\SlttVenetteMargnyWebSite\bin\System.Web.Razor.xml
+C:\Users\didi\Documents\Visual Studio 2012\Projects\SlttVenetteMargnyWebSite\SlttVenetteMargnyWebSite\bin\System.Web.WebPages.xml
+C:\Users\didi\Documents\Visual Studio 2012\Projects\SlttVenetteMargnyWebSite\SlttVenetteMargnyWebSite\bin\System.Web.WebPages.Deployment.xml
+C:\Users\didi\Documents\Visual Studio 2012\Projects\SlttVenetteMargnyWebSite\SlttVenetteMargnyWebSite\bin\System.Web.WebPages.Razor.xml
+C:\Users\didi\Documents\Visual Studio 2012\Projects\SlttVenetteMargnyWebSite\SlttVenetteMargnyWebSite\obj\Debug\MyWebSite.Web.csprojResolveAssemblyReference.cache
+C:\Users\didi\Documents\Visual Studio 2012\Projects\SlttVenetteMargnyWebSite\SlttVenetteMargnyWebSite\obj\Debug\SlttVenetteMargnyWebSite.dll
+C:\Users\didi\Documents\Visual Studio 2012\Projects\SlttVenetteMargnyWebSite\SlttVenetteMargnyWebSite\obj\Debug\SlttVenetteMargnyWebSite.pdb
+C:\Users\didi\Documents\Visual Studio 2012\Projects\SlttVenetteMargnyWebSite\SlttVenetteMargnyWebSite\bin\SlttVenetteMargnyWebSite.Service.dll
+C:\Users\didi\Documents\Visual Studio 2012\Projects\SlttVenetteMargnyWebSite\SlttVenetteMargnyWebSite\bin\SlttVenetteMargnyWebSite.Service.pdb
+C:\Users\didi\Documents\Visual Studio 2012\Projects\MyWebSite\MyWebSite\bin\MyWebSite.dll
+C:\Users\didi\Documents\Visual Studio 2012\Projects\MyWebSite\MyWebSite\bin\MyWebSite.pdb
+C:\Users\didi\Documents\Visual Studio 2012\Projects\MyWebSite\MyWebSite\bin\Antlr3.Runtime.dll
+C:\Users\didi\Documents\Visual Studio 2012\Projects\MyWebSite\MyWebSite\bin\EntityFramework.dll
+C:\Users\didi\Documents\Visual Studio 2012\Projects\MyWebSite\MyWebSite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\didi\Documents\Visual Studio 2012\Projects\MyWebSite\MyWebSite\bin\Newtonsoft.Json.dll
+C:\Users\didi\Documents\Visual Studio 2012\Projects\MyWebSite\MyWebSite\bin\System.Net.Http.Formatting.dll
+C:\Users\didi\Documents\Visual Studio 2012\Projects\MyWebSite\MyWebSite\bin\System.Web.Http.dll
+C:\Users\didi\Documents\Visual Studio 2012\Projects\MyWebSite\MyWebSite\bin\System.Web.Http.WebHost.dll
+C:\Users\didi\Documents\Visual Studio 2012\Projects\MyWebSite\MyWebSite\bin\System.Web.Mvc.dll
+C:\Users\didi\Documents\Visual Studio 2012\Projects\MyWebSite\MyWebSite\bin\System.Web.Optimization.dll
+C:\Users\didi\Documents\Visual Studio 2012\Projects\MyWebSite\MyWebSite\bin\System.Web.Providers.dll
+C:\Users\didi\Documents\Visual Studio 2012\Projects\MyWebSite\MyWebSite\bin\System.Web.Razor.dll
+C:\Users\didi\Documents\Visual Studio 2012\Projects\MyWebSite\MyWebSite\bin\System.Web.WebPages.Deployment.dll
+C:\Users\didi\Documents\Visual Studio 2012\Projects\MyWebSite\MyWebSite\bin\System.Web.WebPages.dll
+C:\Users\didi\Documents\Visual Studio 2012\Projects\MyWebSite\MyWebSite\bin\System.Web.WebPages.Razor.dll
+C:\Users\didi\Documents\Visual Studio 2012\Projects\MyWebSite\MyWebSite\bin\WebGrease.dll
+C:\Users\didi\Documents\Visual Studio 2012\Projects\MyWebSite\MyWebSite\bin\EntityFramework.xml
+C:\Users\didi\Documents\Visual Studio 2012\Projects\MyWebSite\MyWebSite\bin\Newtonsoft.Json.xml
+C:\Users\didi\Documents\Visual Studio 2012\Projects\MyWebSite\MyWebSite\bin\System.Net.Http.Formatting.xml
+C:\Users\didi\Documents\Visual Studio 2012\Projects\MyWebSite\MyWebSite\bin\System.Web.Http.xml
+C:\Users\didi\Documents\Visual Studio 2012\Projects\MyWebSite\MyWebSite\bin\System.Web.Http.WebHost.xml
+C:\Users\didi\Documents\Visual Studio 2012\Projects\MyWebSite\MyWebSite\bin\System.Web.Mvc.xml
+C:\Users\didi\Documents\Visual Studio 2012\Projects\MyWebSite\MyWebSite\bin\System.Web.Razor.xml
+C:\Users\didi\Documents\Visual Studio 2012\Projects\MyWebSite\MyWebSite\bin\System.Web.WebPages.xml
+C:\Users\didi\Documents\Visual Studio 2012\Projects\MyWebSite\MyWebSite\bin\System.Web.WebPages.Deployment.xml
+C:\Users\didi\Documents\Visual Studio 2012\Projects\MyWebSite\MyWebSite\bin\System.Web.WebPages.Razor.xml
+C:\Users\didi\Documents\Visual Studio 2012\Projects\MyWebSite\MyWebSite\obj\Debug\MyWebSite.dll
+C:\Users\didi\Documents\Visual Studio 2012\Projects\MyWebSite\MyWebSite\obj\Debug\MyWebSite.pdb
+C:\Users\didi\Documents\Visual Studio 2012\Projects\MyWebSite\MyWebSite\obj\Debug\MyWebSite.Web.csprojResolveAssemblyReference.cache
+D:\GitHub\EntityFrameworkSeparateClassesArchitecture\MyWebSite\MyWebSite\bin\MyWebSite.dll
+D:\GitHub\EntityFrameworkSeparateClassesArchitecture\MyWebSite\MyWebSite\bin\MyWebSite.pdb
+D:\GitHub\EntityFrameworkSeparateClassesArchitecture\MyWebSite\MyWebSite\bin\Antlr3.Runtime.dll
+D:\GitHub\EntityFrameworkSeparateClassesArchitecture\MyWebSite\MyWebSite\bin\EntityFramework.dll
+D:\GitHub\EntityFrameworkSeparateClassesArchitecture\MyWebSite\MyWebSite\bin\Microsoft.Web.Infrastructure.dll
+D:\GitHub\EntityFrameworkSeparateClassesArchitecture\MyWebSite\MyWebSite\bin\MyWebSite.Service.dll
+D:\GitHub\EntityFrameworkSeparateClassesArchitecture\MyWebSite\MyWebSite\bin\Newtonsoft.Json.dll
+D:\GitHub\EntityFrameworkSeparateClassesArchitecture\MyWebSite\MyWebSite\bin\System.Net.Http.Formatting.dll
+D:\GitHub\EntityFrameworkSeparateClassesArchitecture\MyWebSite\MyWebSite\bin\System.Web.Http.dll
+D:\GitHub\EntityFrameworkSeparateClassesArchitecture\MyWebSite\MyWebSite\bin\System.Web.Http.WebHost.dll
+D:\GitHub\EntityFrameworkSeparateClassesArchitecture\MyWebSite\MyWebSite\bin\System.Web.Mvc.dll
+D:\GitHub\EntityFrameworkSeparateClassesArchitecture\MyWebSite\MyWebSite\bin\System.Web.Optimization.dll
+D:\GitHub\EntityFrameworkSeparateClassesArchitecture\MyWebSite\MyWebSite\bin\System.Web.Providers.dll
+D:\GitHub\EntityFrameworkSeparateClassesArchitecture\MyWebSite\MyWebSite\bin\System.Web.Razor.dll
+D:\GitHub\EntityFrameworkSeparateClassesArchitecture\MyWebSite\MyWebSite\bin\System.Web.WebPages.Deployment.dll
+D:\GitHub\EntityFrameworkSeparateClassesArchitecture\MyWebSite\MyWebSite\bin\System.Web.WebPages.dll
+D:\GitHub\EntityFrameworkSeparateClassesArchitecture\MyWebSite\MyWebSite\bin\System.Web.WebPages.Razor.dll
+D:\GitHub\EntityFrameworkSeparateClassesArchitecture\MyWebSite\MyWebSite\bin\WebGrease.dll
+D:\GitHub\EntityFrameworkSeparateClassesArchitecture\MyWebSite\MyWebSite\bin\MyWebSite.Service.pdb
+D:\GitHub\EntityFrameworkSeparateClassesArchitecture\MyWebSite\MyWebSite\bin\EntityFramework.xml
+D:\GitHub\EntityFrameworkSeparateClassesArchitecture\MyWebSite\MyWebSite\bin\Newtonsoft.Json.xml
+D:\GitHub\EntityFrameworkSeparateClassesArchitecture\MyWebSite\MyWebSite\bin\System.Net.Http.Formatting.xml
+D:\GitHub\EntityFrameworkSeparateClassesArchitecture\MyWebSite\MyWebSite\bin\System.Web.Http.xml
+D:\GitHub\EntityFrameworkSeparateClassesArchitecture\MyWebSite\MyWebSite\bin\System.Web.Http.WebHost.xml
+D:\GitHub\EntityFrameworkSeparateClassesArchitecture\MyWebSite\MyWebSite\bin\System.Web.Mvc.xml
+D:\GitHub\EntityFrameworkSeparateClassesArchitecture\MyWebSite\MyWebSite\bin\System.Web.Razor.xml
+D:\GitHub\EntityFrameworkSeparateClassesArchitecture\MyWebSite\MyWebSite\bin\System.Web.WebPages.xml
+D:\GitHub\EntityFrameworkSeparateClassesArchitecture\MyWebSite\MyWebSite\bin\System.Web.WebPages.Deployment.xml
+D:\GitHub\EntityFrameworkSeparateClassesArchitecture\MyWebSite\MyWebSite\bin\System.Web.WebPages.Razor.xml
+D:\GitHub\EntityFrameworkSeparateClassesArchitecture\MyWebSite\MyWebSite\obj\Debug\MyWebSite.Web.csprojResolveAssemblyReference.cache
+D:\GitHub\EntityFrameworkSeparateClassesArchitecture\MyWebSite\MyWebSite\obj\Debug\MyWebSite.dll
+D:\GitHub\EntityFrameworkSeparateClassesArchitecture\MyWebSite\MyWebSite\obj\Debug\MyWebSite.pdb
+D:\GitHub\EntityFrameworkSeparateClassesArchitecture\MyWebSite\MyWebSite\bin\Microsoft.Practices.Unity.Configuration.dll
+D:\GitHub\EntityFrameworkSeparateClassesArchitecture\MyWebSite\MyWebSite\bin\Microsoft.Practices.Unity.dll
+D:\GitHub\EntityFrameworkSeparateClassesArchitecture\MyWebSite\MyWebSite\bin\System.Web.Helpers.dll
+D:\GitHub\EntityFrameworkSeparateClassesArchitecture\MyWebSite\MyWebSite\bin\Unity.Mvc4.dll
+D:\GitHub\EntityFrameworkSeparateClassesArchitecture\MyWebSite\MyWebSite\bin\Microsoft.Practices.Unity.xml
+D:\GitHub\EntityFrameworkSeparateClassesArchitecture\MyWebSite\MyWebSite\bin\Microsoft.Practices.Unity.Configuration.xml
+D:\GitHub\EntityFrameworkSeparateClassesArchitecture\MyWebSite\MyWebSite\bin\System.Web.Helpers.xml
+D:\GitHub\EntityFrameworkSeparateClassesArchitecture\MyWebSite\MyWebSite\bin\Unity.AutoRegistration.dll

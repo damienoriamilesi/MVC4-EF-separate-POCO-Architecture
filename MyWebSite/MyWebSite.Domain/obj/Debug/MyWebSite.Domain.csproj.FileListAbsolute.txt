@@ -1,0 +1,12 @@
+C:\Users\didi\Documents\Visual Studio 2012\Projects\SlttVenetteMargnyWebSite\SlttVenetteMargnyWebSite.Domain\bin\Debug\SlttVenetteMargnyWebSite.Domain.dll
+C:\Users\didi\Documents\Visual Studio 2012\Projects\SlttVenetteMargnyWebSite\SlttVenetteMargnyWebSite.Domain\bin\Debug\SlttVenetteMargnyWebSite.Domain.pdb
+C:\Users\didi\Documents\Visual Studio 2012\Projects\SlttVenetteMargnyWebSite\SlttVenetteMargnyWebSite.Domain\obj\Debug\SlttVenetteMargnyWebSite.Domain.dll
+C:\Users\didi\Documents\Visual Studio 2012\Projects\SlttVenetteMargnyWebSite\SlttVenetteMargnyWebSite.Domain\obj\Debug\SlttVenetteMargnyWebSite.Domain.pdb
+C:\Users\didi\Documents\Visual Studio 2012\Projects\MyWebSite\MyWebSite.Domain\bin\Debug\MyWebSite.Domain.dll
+C:\Users\didi\Documents\Visual Studio 2012\Projects\MyWebSite\MyWebSite.Domain\bin\Debug\MyWebSite.Domain.pdb
+C:\Users\didi\Documents\Visual Studio 2012\Projects\MyWebSite\MyWebSite.Domain\obj\Debug\MyWebSite.Domain.dll
+C:\Users\didi\Documents\Visual Studio 2012\Projects\MyWebSite\MyWebSite.Domain\obj\Debug\MyWebSite.Domain.pdb
+D:\GitHub\EntityFrameworkSeparateClassesArchitecture\MyWebSite\MyWebSite.Domain\bin\Debug\MyWebSite.Domain.dll
+D:\GitHub\EntityFrameworkSeparateClassesArchitecture\MyWebSite\MyWebSite.Domain\bin\Debug\MyWebSite.Domain.pdb
+D:\GitHub\EntityFrameworkSeparateClassesArchitecture\MyWebSite\MyWebSite.Domain\obj\Debug\MyWebSite.Domain.dll
+D:\GitHub\EntityFrameworkSeparateClassesArchitecture\MyWebSite\MyWebSite.Domain\obj\Debug\MyWebSite.Domain.pdb

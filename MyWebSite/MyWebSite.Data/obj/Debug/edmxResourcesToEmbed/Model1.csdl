@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SsisBddModel" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="SsisBddEntities" p1:LazyLoadingEnabled="true">
+    <EntitySet Name="referential" EntityType="SsisBddModel.Civility" />
+    <EntitySet Name="AdherentSet" EntityType="SsisBddModel.Adherent" />
+    <AssociationSet Name="Adherentcivility" Association="SsisBddModel.Adherentcivility">
+      <End Role="Adherent" EntitySet="AdherentSet" />
+      <End Role="civility" EntitySet="referential" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Civility">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" />
+    <Property Name="label" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="Adherent">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Type="Int32" Name="Id" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="Firstname" Nullable="false" />
+    <Property Type="String" Name="Lastname" Nullable="false" />
+    <NavigationProperty Name="civility" Relationship="SsisBddModel.Adherentcivility" FromRole="Adherent" ToRole="civility" />
+    <Property Type="Int32" Name="CivilityId" Nullable="false" />
+    <Property Type="String" Name="Birthdate" Nullable="false" />
+  </EntityType>
+  <Association Name="Adherentcivility">
+    <End Type="SsisBddModel.Adherent" Role="Adherent" Multiplicity="*" />
+    <End Type="SsisBddModel.Civility" Role="civility" Multiplicity="1" />
+    <ReferentialConstraint>
+      <Principal Role="civility">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Adherent">
+        <PropertyRef Name="CivilityId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

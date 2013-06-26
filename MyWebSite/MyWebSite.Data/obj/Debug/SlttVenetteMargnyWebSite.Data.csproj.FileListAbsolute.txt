@@ -1,0 +1,10 @@
+C:\Users\didi\Documents\Visual Studio 2012\Projects\SlttVenetteMargnyWebSite\SlttVenetteMargnyWebSite.Data\bin\Debug\SlttVenetteMargnyWebSite.Data.dll.config
+C:\Users\didi\Documents\Visual Studio 2012\Projects\SlttVenetteMargnyWebSite\SlttVenetteMargnyWebSite.Data\bin\Debug\SlttVenetteMargnyWebSite.Data.dll
+C:\Users\didi\Documents\Visual Studio 2012\Projects\SlttVenetteMargnyWebSite\SlttVenetteMargnyWebSite.Data\bin\Debug\SlttVenetteMargnyWebSite.Data.pdb
+C:\Users\didi\Documents\Visual Studio 2012\Projects\SlttVenetteMargnyWebSite\SlttVenetteMargnyWebSite.Data\bin\Debug\EntityFramework.dll
+C:\Users\didi\Documents\Visual Studio 2012\Projects\SlttVenetteMargnyWebSite\SlttVenetteMargnyWebSite.Data\bin\Debug\EntityFramework.xml
+C:\Users\didi\Documents\Visual Studio 2012\Projects\SlttVenetteMargnyWebSite\SlttVenetteMargnyWebSite.Data\obj\Debug\SlttVenetteMargnyWebSite.Data.csprojResolveAssemblyReference.cache
+C:\Users\didi\Documents\Visual Studio 2012\Projects\SlttVenetteMargnyWebSite\SlttVenetteMargnyWebSite.Data\obj\Debug\SlttVenetteMargnyWebSite.Data.dll
+C:\Users\didi\Documents\Visual Studio 2012\Projects\SlttVenetteMargnyWebSite\SlttVenetteMargnyWebSite.Data\obj\Debug\SlttVenetteMargnyWebSite.Data.pdb
+C:\Users\didi\Documents\Visual Studio 2012\Projects\SlttVenetteMargnyWebSite\SlttVenetteMargnyWebSite.Data\bin\Debug\SlttVenetteMargnyWebSite.Domain.dll
+C:\Users\didi\Documents\Visual Studio 2012\Projects\SlttVenetteMargnyWebSite\SlttVenetteMargnyWebSite.Data\bin\Debug\SlttVenetteMargnyWebSite.Domain.pdb

@@ -1,0 +1,4 @@
+C:\Users\didi\Documents\Visual Studio 2012\Projects\SlttVenetteMargnyWebSite\SlttVenetteMargnyWebSite.Service\bin\Debug\SlttVenetteMargnyWebSite.Service.dll
+C:\Users\didi\Documents\Visual Studio 2012\Projects\SlttVenetteMargnyWebSite\SlttVenetteMargnyWebSite.Service\bin\Debug\SlttVenetteMargnyWebSite.Service.pdb
+C:\Users\didi\Documents\Visual Studio 2012\Projects\SlttVenetteMargnyWebSite\SlttVenetteMargnyWebSite.Service\obj\Debug\SlttVenetteMargnyWebSite.Service.dll
+C:\Users\didi\Documents\Visual Studio 2012\Projects\SlttVenetteMargnyWebSite\SlttVenetteMargnyWebSite.Service\obj\Debug\SlttVenetteMargnyWebSite.Service.pdb

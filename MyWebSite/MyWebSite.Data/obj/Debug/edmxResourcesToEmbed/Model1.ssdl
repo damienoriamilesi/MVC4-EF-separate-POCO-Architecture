@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SsisBddModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="SsisBddModelStoreContainer">
+    <EntitySet Name="referential" EntityType="SsisBddModel.Store.referential" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="AdherentSet" EntityType="SsisBddModel.Store.AdherentSet" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="Adherentcivility" Association="SsisBddModel.Store.Adherentcivility">
+      <End Role="Adherent" EntitySet="AdherentSet" />
+      <End Role="civility" EntitySet="referential" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="referential">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" Nullable="false" />
+    <Property Name="label" Type="nvarchar" Nullable="true" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="AdherentSet">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Firstname" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Lastname" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="CivilityId" Type="int" Nullable="false" />
+    <Property Name="Birthdate" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <Association Name="Adherentcivility">
+    <End Role="Adherent" Type="SsisBddModel.Store.AdherentSet" Multiplicity="*" />
+    <End Role="civility" Type="SsisBddModel.Store.referential" Multiplicity="1" />
+    <ReferentialConstraint>
+      <Principal Role="civility">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Adherent">
+        <PropertyRef Name="CivilityId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

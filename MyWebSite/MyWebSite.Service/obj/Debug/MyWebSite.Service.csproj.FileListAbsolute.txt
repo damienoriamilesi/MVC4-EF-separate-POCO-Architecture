@@ -1,0 +1,33 @@
+C:\Users\didi\Documents\Visual Studio 2012\Projects\SlttVenetteMargnyWebSite\SlttVenetteMargnyWebSite.Service\bin\Debug\SlttVenetteMargnyWebSite.Service.dll
+C:\Users\didi\Documents\Visual Studio 2012\Projects\SlttVenetteMargnyWebSite\SlttVenetteMargnyWebSite.Service\bin\Debug\SlttVenetteMargnyWebSite.Service.pdb
+C:\Users\didi\Documents\Visual Studio 2012\Projects\SlttVenetteMargnyWebSite\SlttVenetteMargnyWebSite.Service\obj\Debug\MyWebSite.Service.csprojResolveAssemblyReference.cache
+C:\Users\didi\Documents\Visual Studio 2012\Projects\SlttVenetteMargnyWebSite\SlttVenetteMargnyWebSite.Service\obj\Debug\SlttVenetteMargnyWebSite.Service.dll
+C:\Users\didi\Documents\Visual Studio 2012\Projects\SlttVenetteMargnyWebSite\SlttVenetteMargnyWebSite.Service\obj\Debug\SlttVenetteMargnyWebSite.Service.pdb
+C:\Users\didi\Documents\Visual Studio 2012\Projects\SlttVenetteMargnyWebSite\SlttVenetteMargnyWebSite.Service\bin\Debug\SlttVenetteMargnyWebSite.Data.dll
+C:\Users\didi\Documents\Visual Studio 2012\Projects\SlttVenetteMargnyWebSite\SlttVenetteMargnyWebSite.Service\bin\Debug\SlttVenetteMargnyWebSite.Domain.dll
+C:\Users\didi\Documents\Visual Studio 2012\Projects\SlttVenetteMargnyWebSite\SlttVenetteMargnyWebSite.Service\bin\Debug\EntityFramework.dll
+C:\Users\didi\Documents\Visual Studio 2012\Projects\SlttVenetteMargnyWebSite\SlttVenetteMargnyWebSite.Service\bin\Debug\SlttVenetteMargnyWebSite.Data.pdb
+C:\Users\didi\Documents\Visual Studio 2012\Projects\SlttVenetteMargnyWebSite\SlttVenetteMargnyWebSite.Service\bin\Debug\SlttVenetteMargnyWebSite.Domain.pdb
+C:\Users\didi\Documents\Visual Studio 2012\Projects\SlttVenetteMargnyWebSite\SlttVenetteMargnyWebSite.Service\bin\Debug\EntityFramework.xml
+C:\Users\didi\Documents\Visual Studio 2012\Projects\MyWebSite\MyWebSite.Service\bin\Debug\MyWebSite.Service.dll
+C:\Users\didi\Documents\Visual Studio 2012\Projects\MyWebSite\MyWebSite.Service\bin\Debug\MyWebSite.Service.pdb
+C:\Users\didi\Documents\Visual Studio 2012\Projects\MyWebSite\MyWebSite.Service\bin\Debug\MyWebSite.Data.dll
+C:\Users\didi\Documents\Visual Studio 2012\Projects\MyWebSite\MyWebSite.Service\bin\Debug\MyWebSite.Domain.dll
+C:\Users\didi\Documents\Visual Studio 2012\Projects\MyWebSite\MyWebSite.Service\bin\Debug\MyWebSite.Data.pdb
+C:\Users\didi\Documents\Visual Studio 2012\Projects\MyWebSite\MyWebSite.Service\bin\Debug\MyWebSite.Domain.pdb
+C:\Users\didi\Documents\Visual Studio 2012\Projects\MyWebSite\MyWebSite.Service\obj\Debug\MyWebSite.Service.csprojResolveAssemblyReference.cache
+C:\Users\didi\Documents\Visual Studio 2012\Projects\MyWebSite\MyWebSite.Service\obj\Debug\MyWebSite.Service.dll
+C:\Users\didi\Documents\Visual Studio 2012\Projects\MyWebSite\MyWebSite.Service\obj\Debug\MyWebSite.Service.pdb
+C:\Users\didi\Documents\Visual Studio 2012\Projects\MyWebSite\MyWebSite.Service\bin\Debug\EntityFramework.dll
+C:\Users\didi\Documents\Visual Studio 2012\Projects\MyWebSite\MyWebSite.Service\bin\Debug\EntityFramework.xml
+D:\GitHub\EntityFrameworkSeparateClassesArchitecture\MyWebSite\MyWebSite.Service\bin\Debug\MyWebSite.Service.dll
+D:\GitHub\EntityFrameworkSeparateClassesArchitecture\MyWebSite\MyWebSite.Service\bin\Debug\MyWebSite.Service.pdb
+D:\GitHub\EntityFrameworkSeparateClassesArchitecture\MyWebSite\MyWebSite.Service\bin\Debug\MyWebSite.Data.dll
+D:\GitHub\EntityFrameworkSeparateClassesArchitecture\MyWebSite\MyWebSite.Service\bin\Debug\MyWebSite.Domain.dll
+D:\GitHub\EntityFrameworkSeparateClassesArchitecture\MyWebSite\MyWebSite.Service\bin\Debug\EntityFramework.dll
+D:\GitHub\EntityFrameworkSeparateClassesArchitecture\MyWebSite\MyWebSite.Service\bin\Debug\MyWebSite.Data.pdb
+D:\GitHub\EntityFrameworkSeparateClassesArchitecture\MyWebSite\MyWebSite.Service\bin\Debug\MyWebSite.Domain.pdb
+D:\GitHub\EntityFrameworkSeparateClassesArchitecture\MyWebSite\MyWebSite.Service\bin\Debug\EntityFramework.xml
+D:\GitHub\EntityFrameworkSeparateClassesArchitecture\MyWebSite\MyWebSite.Service\obj\Debug\MyWebSite.Service.csprojResolveAssemblyReference.cache
+D:\GitHub\EntityFrameworkSeparateClassesArchitecture\MyWebSite\MyWebSite.Service\obj\Debug\MyWebSite.Service.dll
+D:\GitHub\EntityFrameworkSeparateClassesArchitecture\MyWebSite\MyWebSite.Service\obj\Debug\MyWebSite.Service.pdb

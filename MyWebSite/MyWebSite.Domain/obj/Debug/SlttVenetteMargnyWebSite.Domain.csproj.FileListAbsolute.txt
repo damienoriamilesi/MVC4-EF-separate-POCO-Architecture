@@ -1,0 +1,4 @@
+C:\Users\didi\Documents\Visual Studio 2012\Projects\SlttVenetteMargnyWebSite\SlttVenetteMargnyWebSite.Domain\bin\Debug\SlttVenetteMargnyWebSite.Domain.dll
+C:\Users\didi\Documents\Visual Studio 2012\Projects\SlttVenetteMargnyWebSite\SlttVenetteMargnyWebSite.Domain\bin\Debug\SlttVenetteMargnyWebSite.Domain.pdb
+C:\Users\didi\Documents\Visual Studio 2012\Projects\SlttVenetteMargnyWebSite\SlttVenetteMargnyWebSite.Domain\obj\Debug\SlttVenetteMargnyWebSite.Domain.dll
+C:\Users\didi\Documents\Visual Studio 2012\Projects\SlttVenetteMargnyWebSite\SlttVenetteMargnyWebSite.Domain\obj\Debug\SlttVenetteMargnyWebSite.Domain.pdb
