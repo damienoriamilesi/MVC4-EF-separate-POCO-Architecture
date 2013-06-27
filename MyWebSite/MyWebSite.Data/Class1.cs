@@ -10,16 +10,16 @@ namespace MyWebSite.Data
     public abstract class RepositoryBase<T> : IRepository<T>
         where T : class
     {
-        public RepositoryBase()
-            : this(new DmsRepositoryContext())
-        {
-        }
+        //public RepositoryBase()
+        //    : this(new DmsRepositoryContext())
+        //{
+        //}
 
-        public RepositoryBase(IRepositoryContext repositoryContext)
-        {
-            repositoryContext = repositoryContext ?? new DmsRepositoryContext();
-            _objectSet = repositoryContext.GetObjectSet<T>();
-        }
+        //public RepositoryBase(IRepositoryContext repositoryContext)
+        //{
+        //    repositoryContext = repositoryContext ?? new DmsRepositoryContext();
+        //    _objectSet = repositoryContext.GetObjectSet<T>();
+        //}
 
         private IObjectSet<T> _objectSet;
         public IObjectSet<T> ObjectSet

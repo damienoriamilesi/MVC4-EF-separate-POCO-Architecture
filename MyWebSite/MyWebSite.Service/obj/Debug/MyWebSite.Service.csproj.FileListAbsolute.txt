@@ -31,3 +31,14 @@ D:\GitHub\EntityFrameworkSeparateClassesArchitecture\MyWebSite\MyWebSite.Service
 D:\GitHub\EntityFrameworkSeparateClassesArchitecture\MyWebSite\MyWebSite.Service\obj\Debug\MyWebSite.Service.csprojResolveAssemblyReference.cache
 D:\GitHub\EntityFrameworkSeparateClassesArchitecture\MyWebSite\MyWebSite.Service\obj\Debug\MyWebSite.Service.dll
 D:\GitHub\EntityFrameworkSeparateClassesArchitecture\MyWebSite\MyWebSite.Service\obj\Debug\MyWebSite.Service.pdb
+D:\GitHub\MVC4-EF-separate-POCO-Architecture\MyWebSite\MyWebSite.Service\bin\Debug\MyWebSite.Service.dll
+D:\GitHub\MVC4-EF-separate-POCO-Architecture\MyWebSite\MyWebSite.Service\bin\Debug\MyWebSite.Service.pdb
+D:\GitHub\MVC4-EF-separate-POCO-Architecture\MyWebSite\MyWebSite.Service\bin\Debug\MyWebSite.Data.dll
+D:\GitHub\MVC4-EF-separate-POCO-Architecture\MyWebSite\MyWebSite.Service\bin\Debug\MyWebSite.Domain.dll
+D:\GitHub\MVC4-EF-separate-POCO-Architecture\MyWebSite\MyWebSite.Service\bin\Debug\EntityFramework.dll
+D:\GitHub\MVC4-EF-separate-POCO-Architecture\MyWebSite\MyWebSite.Service\bin\Debug\MyWebSite.Data.pdb
+D:\GitHub\MVC4-EF-separate-POCO-Architecture\MyWebSite\MyWebSite.Service\bin\Debug\MyWebSite.Domain.pdb
+D:\GitHub\MVC4-EF-separate-POCO-Architecture\MyWebSite\MyWebSite.Service\bin\Debug\EntityFramework.xml
+D:\GitHub\MVC4-EF-separate-POCO-Architecture\MyWebSite\MyWebSite.Service\obj\Debug\MyWebSite.Service.csprojResolveAssemblyReference.cache
+D:\GitHub\MVC4-EF-separate-POCO-Architecture\MyWebSite\MyWebSite.Service\obj\Debug\MyWebSite.Service.dll
+D:\GitHub\MVC4-EF-separate-POCO-Architecture\MyWebSite\MyWebSite.Service\obj\Debug\MyWebSite.Service.pdb

@@ -1,8 +1,8 @@
 using System.Web.Mvc;
 using Microsoft.Practices.Unity;
+using MyWebSite.Data;
 using MyWebSite.Service;
 using Unity.Mvc4;
-using Microsoft.Practices.Unity.Configuration;
 using UnityConfiguration;
 
 namespace MyWebSite.Web
@@ -25,10 +25,10 @@ namespace MyWebSite.Web
       // register all your components with the container here
       // it is NOT necessary to register your controllers
       
-      
       // e.g. container.RegisterType<ITestService, TestService>();    
       RegisterTypes(container);
 
+      //container.AddNewExtension<UnityContainerExtensions.>();
       return container;
     }
 
@@ -37,6 +37,8 @@ namespace MyWebSite.Web
         container.Configure(c => c.Scan(scan =>
         {
             scan.AssemblyContaining<ReferentialService>();
+            scan.AssemblyContaining<ReferentialRepository>();
+
             scan.WithNamingConvention();
         }));
     }
