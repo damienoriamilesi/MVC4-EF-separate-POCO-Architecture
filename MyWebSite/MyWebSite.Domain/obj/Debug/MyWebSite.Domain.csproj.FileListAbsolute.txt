@@ -10,3 +10,7 @@ D:\GitHub\EntityFrameworkSeparateClassesArchitecture\MyWebSite\MyWebSite.Domain\
 D:\GitHub\EntityFrameworkSeparateClassesArchitecture\MyWebSite\MyWebSite.Domain\bin\Debug\MyWebSite.Domain.pdb
 D:\GitHub\EntityFrameworkSeparateClassesArchitecture\MyWebSite\MyWebSite.Domain\obj\Debug\MyWebSite.Domain.dll
 D:\GitHub\EntityFrameworkSeparateClassesArchitecture\MyWebSite\MyWebSite.Domain\obj\Debug\MyWebSite.Domain.pdb
+D:\GitHub\MVC4-EF-separate-POCO-Architecture\MyWebSite\MyWebSite.Domain\bin\Debug\MyWebSite.Domain.dll
+D:\GitHub\MVC4-EF-separate-POCO-Architecture\MyWebSite\MyWebSite.Domain\bin\Debug\MyWebSite.Domain.pdb
+D:\GitHub\MVC4-EF-separate-POCO-Architecture\MyWebSite\MyWebSite.Domain\obj\Debug\MyWebSite.Domain.dll
+D:\GitHub\MVC4-EF-separate-POCO-Architecture\MyWebSite\MyWebSite.Domain\obj\Debug\MyWebSite.Domain.pdb

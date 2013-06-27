@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
+    <Compile Include="GenericRepository.cs" />
     <Compile Include="IReferentialRepository.cs" />
     <Compile Include="MyModel.Context.cs">
       <AutoGen>True</AutoGen>

@@ -100,8 +100,6 @@ D:\GitHub\MVC4-EF-separate-POCO-Architecture\MyWebSite\MyWebSite.Tests\bin\Debug
 D:\GitHub\MVC4-EF-separate-POCO-Architecture\MyWebSite\MyWebSite.Tests\bin\Debug\SlttVenetteMargnyWebSite.Tests.pdb
 D:\GitHub\MVC4-EF-separate-POCO-Architecture\MyWebSite\MyWebSite.Tests\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
 D:\GitHub\MVC4-EF-separate-POCO-Architecture\MyWebSite\MyWebSite.Tests\bin\Debug\Microsoft.Practices.Unity.dll
-D:\GitHub\MVC4-EF-separate-POCO-Architecture\MyWebSite\MyWebSite.Tests\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.dll
-D:\GitHub\MVC4-EF-separate-POCO-Architecture\MyWebSite\MyWebSite.Tests\bin\Debug\Microsoft.Practices.Unity.Interception.dll
 D:\GitHub\MVC4-EF-separate-POCO-Architecture\MyWebSite\MyWebSite.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
 D:\GitHub\MVC4-EF-separate-POCO-Architecture\MyWebSite\MyWebSite.Tests\bin\Debug\Newtonsoft.Json.dll
 D:\GitHub\MVC4-EF-separate-POCO-Architecture\MyWebSite\MyWebSite.Tests\bin\Debug\System.Net.Http.Formatting.dll
@@ -115,8 +113,6 @@ D:\GitHub\MVC4-EF-separate-POCO-Architecture\MyWebSite\MyWebSite.Tests\bin\Debug
 D:\GitHub\MVC4-EF-separate-POCO-Architecture\MyWebSite\MyWebSite.Tests\bin\Debug\System.Web.WebPages.Razor.dll
 D:\GitHub\MVC4-EF-separate-POCO-Architecture\MyWebSite\MyWebSite.Tests\bin\Debug\Microsoft.Practices.Unity.xml
 D:\GitHub\MVC4-EF-separate-POCO-Architecture\MyWebSite\MyWebSite.Tests\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
-D:\GitHub\MVC4-EF-separate-POCO-Architecture\MyWebSite\MyWebSite.Tests\bin\Debug\Microsoft.Practices.Unity.Interception.xml
-D:\GitHub\MVC4-EF-separate-POCO-Architecture\MyWebSite\MyWebSite.Tests\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.xml
 D:\GitHub\MVC4-EF-separate-POCO-Architecture\MyWebSite\MyWebSite.Tests\bin\Debug\Newtonsoft.Json.xml
 D:\GitHub\MVC4-EF-separate-POCO-Architecture\MyWebSite\MyWebSite.Tests\bin\Debug\System.Net.Http.Formatting.xml
 D:\GitHub\MVC4-EF-separate-POCO-Architecture\MyWebSite\MyWebSite.Tests\bin\Debug\System.Web.Helpers.xml
@@ -133,6 +129,6 @@ D:\GitHub\MVC4-EF-separate-POCO-Architecture\MyWebSite\MyWebSite.Tests\bin\Debug
 D:\GitHub\MVC4-EF-separate-POCO-Architecture\MyWebSite\MyWebSite.Tests\bin\Debug\fr\System.Web.WebPages.resources.dll
 D:\GitHub\MVC4-EF-separate-POCO-Architecture\MyWebSite\MyWebSite.Tests\bin\Debug\fr\System.Web.WebPages.Deployment.resources.dll
 D:\GitHub\MVC4-EF-separate-POCO-Architecture\MyWebSite\MyWebSite.Tests\bin\Debug\fr\System.Web.WebPages.Razor.resources.dll
-D:\GitHub\MVC4-EF-separate-POCO-Architecture\MyWebSite\MyWebSite.Tests\obj\Debug\MyWebSite.Tests.csprojResolveAssemblyReference.cache
 D:\GitHub\MVC4-EF-separate-POCO-Architecture\MyWebSite\MyWebSite.Tests\obj\Debug\SlttVenetteMargnyWebSite.Tests.dll
 D:\GitHub\MVC4-EF-separate-POCO-Architecture\MyWebSite\MyWebSite.Tests\obj\Debug\SlttVenetteMargnyWebSite.Tests.pdb
+D:\GitHub\MVC4-EF-separate-POCO-Architecture\MyWebSite\MyWebSite.Tests\obj\Debug\MyWebSite.Tests.csprojResolveAssemblyReference.cache
